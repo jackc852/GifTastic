@@ -15,8 +15,8 @@ body {
 	float: left;
 }
 .col-md-4 {
-	display: inline-block !important;
-	float: right !important;
+	display: inline-block;
+	float: right;
 }
 
 #gif-header {
