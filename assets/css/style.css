@@ -1,0 +1,31 @@
+body {
+	background-image: url(../images/TF-background.png);
+	background-size: cover;
+	background-position: center center;
+}
+
+#header {
+	background-color: red;
+	margin: 10px;
+	padding: 20px 0px 10px 0px;
+}
+
+.col-md-7 {
+	display: inline-block;
+	float: left;
+}
+.col-md-4 {
+	display: inline-block !important;
+	float: right !important;
+}
+
+#gif-header {
+	background-color: red;
+	padding: 10px 0px 5px 0px;
+}
+
+#topic-header {
+	background-color: red;
+	padding: 10px 0px 5px 0px;
+}
+
