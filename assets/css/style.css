@@ -10,14 +10,6 @@ body {
 	padding: 20px 0px 10px 0px;
 }
 
-.col-md-7 {
-	display: inline-block;
-	float: left;
-}
-.col-md-4 {
-	display: inline-block;
-	float: right;
-}
 
 #gif-header {
 	background-color: red;
