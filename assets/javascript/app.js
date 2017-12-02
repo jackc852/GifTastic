@@ -69,7 +69,7 @@ function genButtons(){
 	// For loop through array of topics and generate each
 	for (var i = 0; i < topics.length; i++){
 	    var a = $('<button>');
-	    a.addClass('btn btn-danger topic');
+	    a.addClass('btn btn-primary topic');
 	    a.attr('data-name', topics[i]);
 	    a.text(topics[i]);
 	    $('#button-view').append(a);
